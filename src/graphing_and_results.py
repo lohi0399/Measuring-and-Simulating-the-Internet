@@ -59,3 +59,23 @@ import seaborn as sns
 # plt.grid(axis='y')
 # plt.tight_layout()
 # plt.show()
+
+#----------------------------------------------------------------------------------------------#
+
+# Final result estimation
+
+# emissions_data = {
+#     'Website Emissions.com': {'AMP': 1.7, 'non-AMP': 2.0},
+#     'Website Carbon': {'AMP': 0.8, 'non-AMP': 1.3},
+#     'EcoGrader': {'AMP': 0.7, 'non-AMP': 1.9},
+#     'Digital Beacon': {'AMP': 1.5, 'non-AMP': 1.8}
+# }
+
+# # Calculate the differences
+# differences = {calculator: data['non-AMP'] - data['AMP'] for calculator, data in emissions_data.items()}
+
+# # Calculate the average reduction
+# average_reduction = np.mean(list(differences.values()))
+
+# average_reduction, differences
+
