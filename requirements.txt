@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+pathlib
+warnings
+re
+os
+tld
+asyncio
+aiohttp
+csv
+asyncio_throttle
